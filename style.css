@@ -86,3 +86,11 @@ p {
 article:hover: {
     background-color: red;
 }
+#insperation{
+    width: 1000px;
+    transition: transform.2s;
+}
+}
+img:hover{
+    transform: scale(0.9);
+}
